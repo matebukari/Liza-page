@@ -1,0 +1,123 @@
+p,h1{
+  font-family: "Poppins", sans-serif;
+}
+
+.landing-page{
+  background-image: url(images/landing-image.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  opacity: 80%;
+}
+
+.language-button{
+  margin-right: 6vh;
+  margin-top: 6vh;
+  color: white;
+  font-weight: bold;
+  font-size: 3vh;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+
+.landing-text{
+  font-family: "Poppins", sans-serif;
+  font-weight: 100vh;
+  font-size: 5vh;
+  padding-top: 10vh;
+  color: #324164;
+  padding-left: 10vh;
+  padding-right: 10vh;
+  line-height: 6vh;
+}
+
+.welcome-page{
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 80px;
+  padding-right: 80px;
+  line-height: 28px;
+  background-color: #feb90a;
+}
+
+.welcome-text{
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+.first-questions-container{
+  background-color: #a1c67b;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 80px;
+  padding-right: 80px;
+  line-height: 28px;
+}
+
+.first-questions{
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+.schedule{
+  background-color: #a7dbc7;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 80px;
+  padding-right: 80px;
+  line-height: 28px;
+}
+
+.date{
+  margin-top: 25px;
+}
+
+.second-questions-container{
+  background-color: pink;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 80px;
+  padding-right: 80px;
+  line-height: 28px;
+}
+
+.second-questions{
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+.faq-page{
+  background-color: rgba(237, 141, 82, 0.868);
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 80px;
+  padding-right: 80px;
+  line-height: 28px;
+}
+
+.faq-question{
+  font-size: 17px;
+}
+
+html,body{
+  background-color: #feb90a;
+}
+
+.carousel-inner{
+  background-color: #feb90a;
+}
+
+
+img {
+  width: 500px;
+  height: 100vh;
+  margin: auto;
+  display: block;
+}
